@@ -1,0 +1,4 @@
+turn left
+turn right
+jump up and down
+do yolo
